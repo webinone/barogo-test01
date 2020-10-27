@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class BarogoTest01Application {
-
+    // 수정 !!!
     public static void main(String[] args) {
         SpringApplication.run(BarogoTest01Application.class, args);
     }
